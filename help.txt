@@ -1,0 +1,4 @@
+when i was trying to link .o file in ubuntu getting 
+multiple defination of main 
+mail me rrnarayana99@gmail
+to help
